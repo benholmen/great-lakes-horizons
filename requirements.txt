@@ -1,0 +1,3 @@
+algorithmia
+imutils
+opencv-python
