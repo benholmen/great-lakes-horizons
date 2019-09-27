@@ -8,8 +8,7 @@ I'd like to automate the rotation and cropping of the original photos. They are 
 
 ### First attempt - Algorithmia
 
-I first tried using Algorithmia as documented [here](https://blog.algorithmia.com/how-to-rotate-images-in-python-using-a-horizon-detection-algorithm)
-However I found that it did not reliably detect the horizon with enough accuracy. It might work for you and it's free for hobby use because they give a generous number of monthly credits.
+I first tried using Algorithmia as documented [here](https://blog.algorithmia.com/how-to-rotate-images-in-python-using-a-horizon-detection-algorithm). I found that it did not reliably detect the horizon with enough accuracy. It might work for you and it's free for hobby use because they give a generous number of monthly credits.
 
 ### Second attempt - cv2 Canny/HoughLinesP
 
